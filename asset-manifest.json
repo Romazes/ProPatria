@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/ProPatria/static/css/main.073c9b0a.css",
-    "main.js": "/ProPatria/static/js/main.aa66109b.js",
+    "main.css": "/ProPatria/static/css/main.8c4613b2.css",
+    "main.js": "/ProPatria/static/js/main.f83121cb.js",
     "static/js/787.62449090.chunk.js": "/ProPatria/static/js/787.62449090.chunk.js",
-    "static/media/logo.svg": "/ProPatria/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/backgroung-img.png": "/ProPatria/static/media/backgroung-img.d3e124d48da9b9f39f6c.png",
+    "static/media/Montserrat-SemiBold.ttf": "/ProPatria/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/pro-patria.svg": "/ProPatria/static/media/pro-patria.eda14f6940fa2cdd68513f8a024d78fb.svg",
     "index.html": "/ProPatria/index.html",
-    "main.073c9b0a.css.map": "/ProPatria/static/css/main.073c9b0a.css.map",
-    "main.aa66109b.js.map": "/ProPatria/static/js/main.aa66109b.js.map",
+    "static/media/arrow-down-circle.svg": "/ProPatria/static/media/arrow-down-circle.81540a7a38b91561a137f3cb2e661f5d.svg",
+    "main.8c4613b2.css.map": "/ProPatria/static/css/main.8c4613b2.css.map",
+    "main.f83121cb.js.map": "/ProPatria/static/js/main.f83121cb.js.map",
     "787.62449090.chunk.js.map": "/ProPatria/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.aa66109b.js"
+    "static/css/main.8c4613b2.css",
+    "static/js/main.f83121cb.js"
   ]
 }
