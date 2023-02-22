@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/ProPatria/static/css/main.8c4613b2.css",
-    "main.js": "/ProPatria/static/js/main.f83121cb.js",
+    "main.css": "/ProPatria/static/css/main.07fd99ae.css",
+    "main.js": "/ProPatria/static/js/main.2027646a.js",
     "static/js/787.62449090.chunk.js": "/ProPatria/static/js/787.62449090.chunk.js",
-    "static/media/backgroung-img.png": "/ProPatria/static/media/backgroung-img.d3e124d48da9b9f39f6c.png",
+    "static/media/background-img.jpg": "/ProPatria/static/media/background-img.9142f5f1f04eb676883d.jpg",
+    "static/media/hero-flag.png": "/ProPatria/static/media/hero-flag.496d983977fd586b6fb5.png",
     "static/media/Montserrat-SemiBold.ttf": "/ProPatria/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/pro-patria.svg": "/ProPatria/static/media/pro-patria.eda14f6940fa2cdd68513f8a024d78fb.svg",
+    "static/media/Oswald-VariableFont_wght.ttf": "/ProPatria/static/media/Oswald-VariableFont_wght.46d7853f0185f6bf0c93.ttf",
+    "static/media/pro-patria.svg": "/ProPatria/static/media/pro-patria.294e69cf6923592b8409107fddf99114.svg",
+    "static/media/pro-patria-text.svg": "/ProPatria/static/media/pro-patria-text.df7d7472da4f0d25e7b3b57e360a9395.svg",
     "index.html": "/ProPatria/index.html",
-    "static/media/arrow-down-circle.svg": "/ProPatria/static/media/arrow-down-circle.81540a7a38b91561a137f3cb2e661f5d.svg",
-    "main.8c4613b2.css.map": "/ProPatria/static/css/main.8c4613b2.css.map",
-    "main.f83121cb.js.map": "/ProPatria/static/js/main.f83121cb.js.map",
+    "static/media/lightning.svg": "/ProPatria/static/media/lightning.5a6038cc76b5fb376f9ed76b310cef78.svg",
+    "main.07fd99ae.css.map": "/ProPatria/static/css/main.07fd99ae.css.map",
+    "main.2027646a.js.map": "/ProPatria/static/js/main.2027646a.js.map",
     "787.62449090.chunk.js.map": "/ProPatria/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c4613b2.css",
-    "static/js/main.f83121cb.js"
+    "static/css/main.07fd99ae.css",
+    "static/js/main.2027646a.js"
   ]
 }
