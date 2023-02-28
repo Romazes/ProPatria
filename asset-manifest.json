@@ -1,22 +1,33 @@
 {
   "files": {
-    "main.css": "/ProPatria/static/css/main.07fd99ae.css",
-    "main.js": "/ProPatria/static/js/main.2027646a.js",
+    "main.css": "/ProPatria/static/css/main.462158c5.css",
+    "main.js": "/ProPatria/static/js/main.5c3a58f8.js",
     "static/js/787.62449090.chunk.js": "/ProPatria/static/js/787.62449090.chunk.js",
-    "static/media/background-img.jpg": "/ProPatria/static/media/background-img.9142f5f1f04eb676883d.jpg",
+    "static/media/background-img.png": "/ProPatria/static/media/background-img.08fee1a607f6d4e8a5e8.png",
     "static/media/hero-flag.png": "/ProPatria/static/media/hero-flag.496d983977fd586b6fb5.png",
     "static/media/Montserrat-SemiBold.ttf": "/ProPatria/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/founder.png": "/ProPatria/static/media/founder.062d3978d57257c8ac2f.png",
     "static/media/Oswald-VariableFont_wght.ttf": "/ProPatria/static/media/Oswald-VariableFont_wght.46d7853f0185f6bf0c93.ttf",
+    "static/media/Rubik-Regular.ttf": "/ProPatria/static/media/Rubik-Regular.705a89f52bdf93b960ed.ttf",
+    "static/media/Rubik-Bold.ttf": "/ProPatria/static/media/Rubik-Bold.b24c64f715ba25a6e7f5.ttf",
+    "static/media/warrior-pro-patria-img.jpg": "/ProPatria/static/media/warrior-pro-patria-img.d28ff9b799f1a712844d.jpg",
+    "static/media/pro-patria-img.jpg": "/ProPatria/static/media/pro-patria-img.cb20640312580d20746b.jpg",
     "static/media/pro-patria.svg": "/ProPatria/static/media/pro-patria.294e69cf6923592b8409107fddf99114.svg",
     "static/media/pro-patria-text.svg": "/ProPatria/static/media/pro-patria-text.df7d7472da4f0d25e7b3b57e360a9395.svg",
+    "static/media/instagram.svg": "/ProPatria/static/media/instagram.c89d9fc93714c664bfbf6b53a46fe84f.svg",
+    "static/media/envelope.svg": "/ProPatria/static/media/envelope.b39a6a370ad8d1ea8188253c68bac4ef.svg",
+    "static/media/phone.svg": "/ProPatria/static/media/phone.d51f0d67df23624e8cf78f7e9c4d4ab2.svg",
+    "static/media/telegram.svg": "/ProPatria/static/media/telegram.ced37e5a94cb283aa04928a310687f1e.svg",
     "index.html": "/ProPatria/index.html",
+    "static/media/arrow-right.svg": "/ProPatria/static/media/arrow-right.475432c0698a192b12563cbc4e21c948.svg",
+    "static/media/facebook.svg": "/ProPatria/static/media/facebook.7b5486f2f857b81a4d855f0a33201756.svg",
     "static/media/lightning.svg": "/ProPatria/static/media/lightning.5a6038cc76b5fb376f9ed76b310cef78.svg",
-    "main.07fd99ae.css.map": "/ProPatria/static/css/main.07fd99ae.css.map",
-    "main.2027646a.js.map": "/ProPatria/static/js/main.2027646a.js.map",
+    "main.462158c5.css.map": "/ProPatria/static/css/main.462158c5.css.map",
+    "main.5c3a58f8.js.map": "/ProPatria/static/js/main.5c3a58f8.js.map",
     "787.62449090.chunk.js.map": "/ProPatria/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07fd99ae.css",
-    "static/js/main.2027646a.js"
+    "static/css/main.462158c5.css",
+    "static/js/main.5c3a58f8.js"
   ]
 }
