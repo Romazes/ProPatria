@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import styled from "styled-components";
 import "./App.css";
 import Header from "./components/Header";
+import MainContent from "./components/MainContent";
 import backgroundImg from "./images/background-img.png";
 import backgroundHero from "./images/hero-flag.png";
 
@@ -147,7 +148,7 @@ function App() {
           alt="Warrior with Flag of Ukraine"
         />
       </MainImageContainer>
-      <div style={{ height: "1000px" }}>Next content</div>
+      <MainContent />
     </div>
   );
 }
