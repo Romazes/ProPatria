@@ -7,6 +7,7 @@ import AboutFoundation from "./components/MainInfoContent/AboutFoundation";
 import backgroundImg from "./images/background-img.png";
 import backgroundHero from "./images/hero-flag.png";
 import FounderInfo from "./components/MainInfoContent/FounderInfo";
+import AboutProjects from "./components/MainInfoContent/AboutProjects";
 
 const MainImageContainer = styled.div`
   position: relative;
@@ -175,6 +176,7 @@ function App() {
         <AboutFoundation />
         <ContactData />
         <FounderInfo />
+        <AboutProjects />
       </MainInfoContainer>
     </div>
   );
