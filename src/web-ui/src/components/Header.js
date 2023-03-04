@@ -2,6 +2,7 @@ import styled from "styled-components";
 import logo from "./../images/pro-patria.svg";
 import btnLogo from "./../images/lightning.svg";
 import proPatriaText from "./../images/pro-patria-text.svg";
+import Button from "./MainInfoContent/Button";
 
 const NavBar = styled.nav`
   font-family: "Oswald";
@@ -48,28 +49,6 @@ const NavLink = styled.div`
 
 const NavBarButton = styled.div`
   grid-column: span 1;
-`;
-
-const Button = styled.button`
-  width: 256px;
-  height: 50px;
-  background-color: #72785c;
-  border: 6px solid #282d27;
-  color: #ffffff;
-  cursor: pointer;
-
-  font-family: "Oswald";
-  font-weight: 500;
-  font-size: 28px;
-  line-height: 100%;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  color: #282d27;
-
-  &:hover {
-    background-color: #282d27;
-    color: #72785c;
-  }
 `;
 
 const ButtonLogo = styled.div`
