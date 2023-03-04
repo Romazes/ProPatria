@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProPatria/static/css/main.462158c5.css",
-    "main.js": "/ProPatria/static/js/main.02272373.js",
+    "main.js": "/ProPatria/static/js/main.27236bd9.js",
     "static/js/787.62449090.chunk.js": "/ProPatria/static/js/787.62449090.chunk.js",
     "static/media/background-img.png": "/ProPatria/static/media/background-img.08fee1a607f6d4e8a5e8.png",
     "static/media/founder-2.png": "/ProPatria/static/media/founder-2.e42c8aa507b8fbd713ea.png",
@@ -17,22 +17,23 @@
     "static/media/pro-patria-text.svg": "/ProPatria/static/media/pro-patria-text.df7d7472da4f0d25e7b3b57e360a9395.svg",
     "static/media/bulletproof_car.svg": "/ProPatria/static/media/bulletproof_car.c17933e6ae1665509d2e6e6d030a62d7.svg",
     "static/media/instagram.svg": "/ProPatria/static/media/instagram.c89d9fc93714c664bfbf6b53a46fe84f.svg",
+    "static/media/binoculars.svg": "/ProPatria/static/media/binoculars.8ed32348931a6b653c4bef48a6bb6cd5.svg",
     "static/media/pill.svg": "/ProPatria/static/media/pill.71a2131b45eaab7dce0f8a5c8de27152.svg",
     "static/media/bulletproof_vest.svg": "/ProPatria/static/media/bulletproof_vest.6ba32e12d1a475f32eb3e0980085bb26.svg",
-    "static/media/binoculars.svg": "/ProPatria/static/media/binoculars.13a9554f0e4f8a6ee065e27bfb5f0ac4.svg",
     "static/media/envelope.svg": "/ProPatria/static/media/envelope.b39a6a370ad8d1ea8188253c68bac4ef.svg",
     "static/media/phone.svg": "/ProPatria/static/media/phone.d51f0d67df23624e8cf78f7e9c4d4ab2.svg",
     "static/media/telegram.svg": "/ProPatria/static/media/telegram.ced37e5a94cb283aa04928a310687f1e.svg",
     "index.html": "/ProPatria/index.html",
+    "static/media/heart.svg": "/ProPatria/static/media/heart.1426cd10db33538d4be8e6d66d8c767d.svg",
     "static/media/arrow-right.svg": "/ProPatria/static/media/arrow-right.475432c0698a192b12563cbc4e21c948.svg",
     "static/media/facebook.svg": "/ProPatria/static/media/facebook.7b5486f2f857b81a4d855f0a33201756.svg",
     "static/media/lightning.svg": "/ProPatria/static/media/lightning.5a6038cc76b5fb376f9ed76b310cef78.svg",
     "main.462158c5.css.map": "/ProPatria/static/css/main.462158c5.css.map",
-    "main.02272373.js.map": "/ProPatria/static/js/main.02272373.js.map",
+    "main.27236bd9.js.map": "/ProPatria/static/js/main.27236bd9.js.map",
     "787.62449090.chunk.js.map": "/ProPatria/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462158c5.css",
-    "static/js/main.02272373.js"
+    "static/js/main.27236bd9.js"
   ]
 }
