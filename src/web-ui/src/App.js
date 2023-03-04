@@ -1,10 +1,12 @@
 import { useState, useEffect } from "react";
 import styled from "styled-components";
 import "./App.css";
+import ContactData from "./components/MainInfoContent/ContactData";
 import Header from "./components/Header";
-import MainContent from "./components/MainContent";
+import AboutFoundation from "./components/MainInfoContent/AboutFoundation";
 import backgroundImg from "./images/background-img.png";
 import backgroundHero from "./images/hero-flag.png";
+import FounderInfo from "./components/MainInfoContent/FounderInfo";
 
 const MainImageContainer = styled.div`
   position: relative;
@@ -67,6 +69,27 @@ const BackgroundText = styled.div`
 const Letter = styled.span`
   position: relative;
   z-index: ${(props) => (props.isActive ? "1" : "0")};
+`;
+
+const MainInfoContainer = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+
+  background-color: #282d27;
+  color: #ffffff;
+  padding-left: 130px;
+  padding-right: 130px;
+
+  @media (max-width: 768px) {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+
+  h1 {
+    margin-top: 60px;
+  }
 `;
 
 function App() {
@@ -148,7 +171,11 @@ function App() {
           alt="Warrior with Flag of Ukraine"
         />
       </MainImageContainer>
-      <MainContent />
+      <MainInfoContainer>
+        <AboutFoundation />
+        <ContactData />
+        <FounderInfo />
+      </MainInfoContainer>
     </div>
   );
 }
