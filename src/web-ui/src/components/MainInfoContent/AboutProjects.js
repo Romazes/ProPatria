@@ -67,6 +67,7 @@ const Article = styled.p`
   line-height: 28px;
   text-align: center;
   text-transform: none;
+  color: #5b604a;
 
   @media (max-width: 768px) {
     font-size: 37px;
@@ -76,8 +77,8 @@ const Article = styled.p`
 
 const AboutProjects = () => {
   const projectList = [
-    { tittle: "Бронежелетів", amount: 10, pathImg: `${BulletproofVestImg}` },
     { tittle: "Бронемобілів", amount: 5, pathImg: `${BulletproofCarImg}` },
+    { tittle: "Бронежелетів", amount: 10, pathImg: `${BulletproofVestImg}` },
     { tittle: "Прилади нб", amount: 20, pathImg: `${BinocularsImg}` },
     {
       tittle: "Медикаментів",
@@ -104,8 +105,8 @@ const AboutProjects = () => {
         <CardContainer>{OurProjects}</CardContainer>
         <Article>
           Завдяки вам це ще не кінець! <br /> Ми разом кожен день допомогаємо
-          нашим війсковим та постраждалим. <br /> Будь-хто може зробити свій внесок у
-          майбутнє нашої України 💪
+          нашим війсковим та постраждалим. <br /> Будь-хто може зробити свій
+          внесок у майбутнє нашої України 💪
         </Article>
       </Container>
     </>
