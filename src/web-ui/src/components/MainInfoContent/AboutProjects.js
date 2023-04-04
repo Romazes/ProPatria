@@ -55,8 +55,8 @@ const CardTitleText = styled.div`
 const CardImage = styled.img`
   margin-left: 50px;
   grid-area: image;
-  height: 64px;
-  width: 64px;
+  height: 54px;
+  width: 54px;
   justify-self: end;
 `;
 

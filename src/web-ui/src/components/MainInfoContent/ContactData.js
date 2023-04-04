@@ -1,11 +1,9 @@
 import styled from "styled-components";
 import Subtitle from "./Subtitle";
 import Title from "./Title";
+import SocialMediaList from "./SocialMediaList";
 import PhoneLogo from "./../../images/phone.svg";
 import EnvelopeLogo from "./../../images/envelope.svg";
-import FacebookLogo from "./../../images/facebook.svg";
-import TelegramLogo from "./../../images/telegram.svg";
-import InstagramLogo from "./../../images/instagram.svg";
 
 const ContainerContacts = styled.div`
   padding-top: 20px;
@@ -50,20 +48,7 @@ const ContainerItem = styled.div`
 const SocialMediaContainer = styled.div`
   padding-top: 20px;
   display: flex;
-
   width: 100%;
-`;
-
-const SocialMediaItem = styled.div`
-  margin: auto;
-
-  a:hover {
-    filter: invert(51%) sepia(53%) saturate(2158%) hue-rotate(328deg) brightness(95%) contrast(98%);
-  }
-
-  a img {
-    width: 64px;
-  }
 `;
 
 const ContactData = () => {
@@ -85,21 +70,7 @@ const ContactData = () => {
       </ContainerContacts>
       <Subtitle>Підпишись на наші соціальні мережі</Subtitle>
       <SocialMediaContainer>
-        <SocialMediaItem>
-          <a href="https://www.facebook.com/5th.SAB" target="blank">
-            <img src={FacebookLogo} alt="facebook logo" />
-          </a>
-        </SocialMediaItem>
-        <SocialMediaItem>
-          <a href="#" target="blank">
-            <img src={TelegramLogo} alt="telegram logo" />
-          </a>
-        </SocialMediaItem>
-        <SocialMediaItem>
-          <a href="#" target="blank">
-            <img src={InstagramLogo} alt="instagram logo" />
-          </a>
-        </SocialMediaItem>
+        <SocialMediaList colorSocialMediaLink="#72785C" />
       </SocialMediaContainer>
     </>
   );

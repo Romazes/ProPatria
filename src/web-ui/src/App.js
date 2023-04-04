@@ -9,6 +9,7 @@ import backgroundHero from "./images/hero-flag.png";
 import FounderInfo from "./components/MainInfoContent/FounderInfo";
 import AboutProjects from "./components/MainInfoContent/AboutProjects";
 import SupportFoundation from "./components/MainInfoContent/SupportFoundation";
+import Footer from "./components/Footer";
 
 const MainImageContainer = styled.div`
   position: relative;
@@ -159,7 +160,7 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <>
       <Header />
       <MainImageContainer>
         <BackgroundImage src={backgroundImg} alt="Background image" />
@@ -180,7 +181,8 @@ function App() {
         <AboutProjects />
         <SupportFoundation />
       </MainInfoContainer>
-    </div>
+      <Footer />
+    </>
   );
 }
 

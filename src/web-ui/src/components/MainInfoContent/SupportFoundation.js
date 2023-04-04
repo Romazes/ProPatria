@@ -1,6 +1,6 @@
 import HeartImg from "./../../images/heart.svg";
 import styled from "styled-components";
-import Button from "./Button";
+import ButtonDonation from "./ButtonDonation";
 
 const Container = styled.div`
   width: 100%;
@@ -56,7 +56,7 @@ const SupportFoundation = () => {
         громдян
       </ContainerArticle>
       <ContainerArticle>твій внесок ніколи не буде забутий</ContainerArticle>
-      <Button>підтримати</Button>
+      <ButtonDonation isLightingLogo={false}>підтримати</ButtonDonation>
     </Container>
   );
 };
