@@ -4,6 +4,7 @@ import Title from "./Title";
 import SocialMediaList from "./SocialMediaList";
 import PhoneLogo from "./../../images/phone.svg";
 import EnvelopeLogo from "./../../images/envelope.svg";
+import { PHONE_NUMBER, EMAIL_ADDRESS } from "../../constants/contactInfo";
 
 const ContainerContacts = styled.div`
   padding-top: 20px;
@@ -61,11 +62,11 @@ const ContactData = () => {
       <ContainerContacts>
         <ContainerItem>
           <img src={PhoneLogo} alt="phone" />
-          <a href="tel:+380988888777">+38 (098) 888-87-77</a>
+          <a href={`tel:${PHONE_NUMBER}`}>{PHONE_NUMBER}</a>
         </ContainerItem>
         <ContainerItem>
           <img src={EnvelopeLogo} alt="envelope" />
-          <a href="mailto:office@propatria.ua">office@propatria.ua</a>
+          <a href={`mailto:${EMAIL_ADDRESS}`}>{EMAIL_ADDRESS}</a>
         </ContainerItem>
       </ContainerContacts>
       <Subtitle>Підпишись на наші соціальні мережі</Subtitle>

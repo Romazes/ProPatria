@@ -4,6 +4,7 @@ import useScrollBlock from "../helpers/useScrollBlock";
 import ButtonDonation from "./MainInfoContent/ButtonDonation";
 import Logo from "./MainInfoContent/Logo";
 import SocialMediaList from "./MainInfoContent/SocialMediaList";
+import { PHONE_NUMBER, EMAIL_ADDRESS } from "../constants/contactInfo";
 
 const NavBar = styled.nav`
   font-family: "Oswald";
@@ -165,8 +166,8 @@ const Header = () => {
             <>
               <SocialMediaList heightIcon="32px" widthIcon="32px"/>
               <ContactContainer>
-                <a href="tel:+380988888777">+38 (098) 888-87-77</a>
-                <a href="mailto:office@propatria.ua">office@propatria.ua</a>
+                <a href={`tel:${PHONE_NUMBER}`}>{PHONE_NUMBER}</a>
+                <a href={`mailto:${EMAIL_ADDRESS}`}>{EMAIL_ADDRESS}</a>
               </ContactContainer>
               <div style={{ fontSize: "18px", textAlign: "center" }}>
                 © 2023 Pro Patria Charity Foundation. <br />
