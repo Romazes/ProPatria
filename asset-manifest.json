@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProPatria/static/css/main.462158c5.css",
-    "main.js": "/ProPatria/static/js/main.3b2ce78e.js",
+    "main.js": "/ProPatria/static/js/main.06b68f50.js",
     "static/js/787.62449090.chunk.js": "/ProPatria/static/js/787.62449090.chunk.js",
     "static/media/background-img.png": "/ProPatria/static/media/background-img.08fee1a607f6d4e8a5e8.png",
     "static/media/founder-2.png": "/ProPatria/static/media/founder-2.e42c8aa507b8fbd713ea.png",
@@ -29,11 +29,11 @@
     "static/media/facebook.svg": "/ProPatria/static/media/facebook.93015cc27d2f59d4092132670cdcc39c.svg",
     "static/media/lightning.svg": "/ProPatria/static/media/lightning.5a6038cc76b5fb376f9ed76b310cef78.svg",
     "main.462158c5.css.map": "/ProPatria/static/css/main.462158c5.css.map",
-    "main.3b2ce78e.js.map": "/ProPatria/static/js/main.3b2ce78e.js.map",
+    "main.06b68f50.js.map": "/ProPatria/static/js/main.06b68f50.js.map",
     "787.62449090.chunk.js.map": "/ProPatria/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462158c5.css",
-    "static/js/main.3b2ce78e.js"
+    "static/js/main.06b68f50.js"
   ]
 }
