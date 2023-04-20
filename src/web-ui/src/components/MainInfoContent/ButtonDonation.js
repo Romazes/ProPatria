@@ -25,7 +25,6 @@ const Button = styled.button`
   @media (max-width: 768px) {
     width: 165px;
     padding-right: ${(props) => (props.isLightingLogo ? "23px" : "0px")};
-    margin-left: 40px;
 
     border: 4px solid #1f231f;
 

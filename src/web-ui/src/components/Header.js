@@ -68,6 +68,9 @@ const NavLink = styled.div`
 const NavBarButton = styled.div`
   grid-column: span 1;
   z-index: 3;
+  @media (max-width: 768px) {
+    margin-left: 35px;
+  }
 `;
 
 const MenuLabel = styled.div`
