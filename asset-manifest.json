@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProPatria/static/css/main.462158c5.css",
-    "main.js": "/ProPatria/static/js/main.06b68f50.js",
+    "main.js": "/ProPatria/static/js/main.fe4f712e.js",
     "static/js/787.62449090.chunk.js": "/ProPatria/static/js/787.62449090.chunk.js",
     "static/media/background-img.png": "/ProPatria/static/media/background-img.08fee1a607f6d4e8a5e8.png",
     "static/media/founder-2.png": "/ProPatria/static/media/founder-2.e42c8aa507b8fbd713ea.png",
@@ -13,27 +13,27 @@
     "static/media/Rubik-Bold.ttf": "/ProPatria/static/media/Rubik-Bold.b24c64f715ba25a6e7f5.ttf",
     "static/media/warrior-pro-patria-img.jpg": "/ProPatria/static/media/warrior-pro-patria-img.d28ff9b799f1a712844d.jpg",
     "static/media/pro-patria-img.jpg": "/ProPatria/static/media/pro-patria-img.cb20640312580d20746b.jpg",
-    "static/media/pro-patria.svg": "/ProPatria/static/media/pro-patria.294e69cf6923592b8409107fddf99114.svg",
-    "static/media/pro-patria-text.svg": "/ProPatria/static/media/pro-patria-text.df7d7472da4f0d25e7b3b57e360a9395.svg",
-    "static/media/bulletproof_car.svg": "/ProPatria/static/media/bulletproof_car.c17933e6ae1665509d2e6e6d030a62d7.svg",
-    "static/media/instagram.svg": "/ProPatria/static/media/instagram.39596e9903510171dac0c6721bf201db.svg",
-    "static/media/binoculars.svg": "/ProPatria/static/media/binoculars.8ed32348931a6b653c4bef48a6bb6cd5.svg",
-    "static/media/pill.svg": "/ProPatria/static/media/pill.71a2131b45eaab7dce0f8a5c8de27152.svg",
-    "static/media/bulletproof_vest.svg": "/ProPatria/static/media/bulletproof_vest.6ba32e12d1a475f32eb3e0980085bb26.svg",
-    "static/media/envelope.svg": "/ProPatria/static/media/envelope.b39a6a370ad8d1ea8188253c68bac4ef.svg",
-    "static/media/phone.svg": "/ProPatria/static/media/phone.d51f0d67df23624e8cf78f7e9c4d4ab2.svg",
-    "static/media/telegram.svg": "/ProPatria/static/media/telegram.ce7619b46c367bc7b44119f75e8f4cb1.svg",
+    "static/media/pro-patria.svg": "/ProPatria/static/media/pro-patria.7d24abb3b34ca9f2afde76f38b4875b3.svg",
+    "static/media/pro-patria-text.svg": "/ProPatria/static/media/pro-patria-text.4ee7b98e16d12397a271b8e85db6a42f.svg",
+    "static/media/bulletproof_car.svg": "/ProPatria/static/media/bulletproof_car.fbaefede64c9939c504cb8651b05d17b.svg",
+    "static/media/instagram.svg": "/ProPatria/static/media/instagram.3c827a2f21ebbb9c81d3e67741fc5bf6.svg",
+    "static/media/binoculars.svg": "/ProPatria/static/media/binoculars.401059369f1b042a7d2a2efe507b6940.svg",
+    "static/media/pill.svg": "/ProPatria/static/media/pill.a6027aaf4ac0e0a886cbb7aea3cc776f.svg",
+    "static/media/bulletproof_vest.svg": "/ProPatria/static/media/bulletproof_vest.46b86987d0458c8abd6b966f3b1bbfe1.svg",
+    "static/media/envelope.svg": "/ProPatria/static/media/envelope.a44f520695e8992cbe4d033094a4d0e5.svg",
+    "static/media/phone.svg": "/ProPatria/static/media/phone.876271803182a6c561228f79946506a7.svg",
+    "static/media/telegram.svg": "/ProPatria/static/media/telegram.dcf8783505b3ffcc48383020c9b401c7.svg",
     "index.html": "/ProPatria/index.html",
-    "static/media/heart.svg": "/ProPatria/static/media/heart.1426cd10db33538d4be8e6d66d8c767d.svg",
+    "static/media/heart.svg": "/ProPatria/static/media/heart.3d8fc518b8d729b045c88d4faccdcdcb.svg",
     "static/media/arrow-right.svg": "/ProPatria/static/media/arrow-right.475432c0698a192b12563cbc4e21c948.svg",
-    "static/media/facebook.svg": "/ProPatria/static/media/facebook.93015cc27d2f59d4092132670cdcc39c.svg",
-    "static/media/lightning.svg": "/ProPatria/static/media/lightning.5a6038cc76b5fb376f9ed76b310cef78.svg",
+    "static/media/facebook.svg": "/ProPatria/static/media/facebook.f79d4e8508f66477019c3b7bc0d103a2.svg",
+    "static/media/lightning.svg": "/ProPatria/static/media/lightning.32b333a7e8ef76e4e91a14f5e1f5ecc8.svg",
     "main.462158c5.css.map": "/ProPatria/static/css/main.462158c5.css.map",
-    "main.06b68f50.js.map": "/ProPatria/static/js/main.06b68f50.js.map",
+    "main.fe4f712e.js.map": "/ProPatria/static/js/main.fe4f712e.js.map",
     "787.62449090.chunk.js.map": "/ProPatria/static/js/787.62449090.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.462158c5.css",
-    "static/js/main.06b68f50.js"
+    "static/js/main.fe4f712e.js"
   ]
 }
